@@ -1,1 +1,16 @@
-{}
+{
+    "ExploringAgama": {
+        "projectName": "ExploringAgama",
+        "description": "Just try to explore the feature of agama.",
+        "type": "community",
+        "author": "KyleChau-GamaTech",
+        "version": "0.0.1",
+        "authorWebsite": "https://github.com/KyleChau-GamaTech/POC-work-GluuFlexAgama",
+        "githubUri": "https://github.com/KyleChau-GamaTech/POC-work-GluuFlexAgama",
+        "license": "MIT",
+        "lastUpdated": "1689498545378",
+        "tags": [
+            "IAM"
+        ]
+    }
+}
